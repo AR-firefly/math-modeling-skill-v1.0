@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Results (generated output)
+results/
+examples/sample_output/
+
+# Generated papers
+参赛论文_*.docx
+示例论文.docx
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp formula images
+_formula_temp.png

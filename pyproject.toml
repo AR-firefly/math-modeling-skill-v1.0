@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "math-modeling"
+version = "0.1.0"
+description = "数学建模全流程：从求解到论文生成的一站式工具箱"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "python-docx>=0.8.11",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
