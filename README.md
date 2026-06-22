@@ -117,10 +117,6 @@ python ../src/math_modeling/paper_generator.py
 
 然后在对话中输入 `/math-modeling` 即可调用。
 
-## 许可
-本仓库采用 [CC BY-NC 4.0](LICENSE) 协议。
-  - **非商业使用：** 欢迎自由使用、修改、分享。
-  - **商业使用：** 如需商用请联系作者（QQ：2171824923@qq.com）。
 
 ## 作者
 
