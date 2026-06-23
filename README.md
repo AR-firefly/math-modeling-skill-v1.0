@@ -2,6 +2,8 @@
 
 > 从问题分析到论文生成的一站式数学建模竞赛工具箱
 
+📖 **新手教程**：10 分钟上手 → Claude Code 技能调用 → 套用自己的赛题 → [TUTORIAL.md](TUTORIAL.md)
+
 ## 这是什么？
 
 一套面向数学建模竞赛的完整工作流，覆盖：**问题分析 → 算法选型 → 代码求解 → 论文生成** 全流程。可作为 Claude Code Skill 使用，也可作为独立的 Python 代码库。
@@ -116,8 +118,6 @@ python ../src/math_modeling/paper_generator.py
 ```
 
 然后在对话中输入 `/math-modeling` 即可调用。
-
-📖 **新手教程**：10 分钟上手 → Claude Code 技能调用 → 套用自己的赛题 → [TUTORIAL.md](TUTORIAL.md)
 
 ## 作者
 
