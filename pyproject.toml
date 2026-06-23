@@ -7,7 +7,7 @@ name = "math-modeling"
 version = "0.1.0"
 description = "数学建模全流程：从求解到论文生成的一站式工具箱"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "AGPL-3.0"}
 requires-python = ">=3.9"
 dependencies = [
     "numpy>=1.24",

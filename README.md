@@ -121,7 +121,7 @@ python ../src/math_modeling/paper_generator.py
 
 ## License
 
-MIT
+AGPL-3.0
 
 ## 作者
 
