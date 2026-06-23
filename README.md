@@ -119,10 +119,6 @@ python ../src/math_modeling/paper_generator.py
 
 📖 **新手教程**：10 分钟上手 → Claude Code 技能调用 → 套用自己的赛题 → [TUTORIAL.md](TUTORIAL.md)
 
-## License
-
-AGPL-3.0
-
 ## 作者
 
 AR-26710
