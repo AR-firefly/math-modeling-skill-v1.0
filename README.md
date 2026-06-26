@@ -119,6 +119,12 @@ python ../src/math_modeling/paper_generator.py
 
 然后在对话中输入 `/math-modeling` 即可调用。
 
+## 致谢
+
+Claude Code + GitHub 开源作品
+
+---
+
 ## 作者
 
 AR-26710
