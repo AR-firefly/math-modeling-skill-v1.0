@@ -53,7 +53,7 @@ python run_all.py
 ```json
 {
   "skills": {
-    "math-modeling": "C:\\Users\\AR-fi\\math-modeling-skill-v1.0"
+    "math-modeling": "C:\\Users\\YourName\\math-modeling-skill-v1.0"
   }
 }
 ```
